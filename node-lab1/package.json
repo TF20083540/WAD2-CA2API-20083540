@@ -1,0 +1,24 @@
+{
+  "name": "node-lab1",
+  "version": "1.0.0",
+  "description": "node lab 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TF20083540/WAD2-CA2API-20083540.git"
+  },
+  "author": "TF20083540",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TF20083540/WAD2-CA2API-20083540/issues"
+  },
+  "homepage": "https://github.com/TF20083540/WAD2-CA2API-20083540#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "nodemon": "^2.0.20"
+  }
+}
